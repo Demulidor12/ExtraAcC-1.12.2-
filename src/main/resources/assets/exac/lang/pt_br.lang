@@ -40,7 +40,7 @@ ac.ability.aerohand.aero_separator.desc=Crie uma pequena área de vácuo e cause
 ac.ability.aerohand.storm_core.desc=Crie um núcleo que possa atrair entidades ao redor e depois exploda.
 
 ac.ability.telekinesis.psycho_throwing.desc=Jogue fora um pedaço de pedregulho através de sua psicocinese. O desempenho melhorará se o pedregulho for tratado e fácil de operar.
-ac.ability.telekinesis.psycho_transmission.desc=Pegue o item que está caido e coloque dentro de seu inventário.
+ac.ability.telekinesis.psycho_transmission.desc=Pegue o item que está caido e coloque no inventário.
 ac.ability.telekinesis.psycho_needling.desc=Agora você pode controlar com precisão a atitude de projéteis voadores! Jogue uma agulha através de sua psicocinese, causando dano que passa a armadura.
 ac.ability.telekinesis.insulation.desc=Habilidade passiva, reduza o dano de habilidade recebido criando uma área que bloqueia a passagem de elétrons. Especialmente eficaz contra electromaster e meltdowner.
 ac.ability.telekinesis.cruise_bomb.desc=Controle pequenas bolas de água para navegar e atacar criaturas e projéteis automaticamente. É necessário um balde de água.
