@@ -1,0 +1,94 @@
+ac.ability.aerohand.name=Mão Aerodinâmica
+ac.ability.telekinesis.name=Telecinese
+
+ac.ability.aerohand.volcanic_ball.name=Bola Vulcânica
+ac.ability.aerohand.ascending_air.name=Ar Ascendente
+ac.ability.aerohand.air_blade.name=Lâmina de Ar
+ac.ability.aerohand.airflow.name=Fluxo de Ar
+ac.ability.aerohand.air_cooling.name=Resfriamento a Ar
+ac.ability.aerohand.air_wall.name=Parede de Ar
+ac.ability.aerohand.air_jet.name=Jacto de Ar
+ac.ability.aerohand.offense_armour.name=Armadura Ofensiva
+ac.ability.aerohand.bomber_lance.name=Lança de Ar
+ac.ability.aerohand.flying.name=Vôo
+ac.ability.aerohand.aero_separator.name=Separador de Ar
+ac.ability.aerohand.storm_core.name=Núcleo da Tempestade
+
+ac.ability.telekinesis.psycho_throwing.name=Arremesso Psíquico
+ac.ability.telekinesis.psycho_transmission.name=Transmissão Psíquica
+ac.ability.telekinesis.psycho_needling.name=Agulhamento Psíquico
+ac.ability.telekinesis.insulation.name=Isolamento
+ac.ability.telekinesis.cruise_bomb.name=Bomba Cruzeiro
+ac.ability.telekinesis.overload_thinking.name=Sobrecarga de Pensamento
+ac.ability.telekinesis.perfect_paper.name=Papel Perfeito
+ac.ability.telekinesis.psycho_slam.name=Batida Psíquica
+ac.ability.telekinesis.psycho_harden.name=Endurecimento Psíquico
+ac.ability.telekinesis.liquid_shadow.name=Sombra Líquida
+ac.ability.telekinesis.paper_drill.name=Broca de Papel Perfeito
+
+ac.ability.aerohand.volcanic_ball.desc=Comprima uma grande massa de ar e depois lance-a. Empurre o inimigo atingido. Quanto maior a distância, menor o dano.
+ac.ability.aerohand.ascending_air.desc=Habilidade passiva, seu dano de queda não será mais do que um valor máximo.
+ac.ability.aerohand.air_blade.desc=Comprima um pouco de ar em uma direção para fazer uma lâmina de ar instável, causando dano que passa a armadura
+ac.ability.aerohand.airflow.desc=Habilidade passiva, reduzir o dano de afogamento. Respire debaixo d'água quando habilidoso.
+ac.ability.aerohand.air_cooling.desc=Reduza sua sobrecarga usando resfriamento a ar.
+ac.ability.aerohand.air_wall.desc=Crie uma parede de ar comprimido que repele todos os alvos e destrói projéteis.
+ac.ability.aerohand.air_jet.desc=Avance para a frente através do jato para trás. Esta habilidade tem um cooldown relativamente curto, mas você não pode usá-la durante o uso de armadura ofensiva.
+ac.ability.aerohand.offense_armour.desc=Use ar comprimido completo para se proteger. Reduza o dano recebido, empurrar entidades e destrua projéteis.
+ac.ability.aerohand.bomber_lance.desc=Ejete uma lança de ar de alta pressão para causar um grande dano e empurrar o alvo.
+ac.ability.aerohand.flying.desc=Você pode voar quando ativado. Não pode coexistir com a Armadura Ofensiva.
+ac.ability.aerohand.aero_separator.desc=Crie uma pequena área de vácuo e cause dano real a todas as entidades dentro (incluindo você!).
+ac.ability.aerohand.storm_core.desc=Crie um núcleo que possa atrair entidades ao redor e depois exploda.
+
+ac.ability.telekinesis.psycho_throwing.desc=Jogue fora um pedaço de pedregulho através de sua psicocinese. O desempenho melhorará se o pedregulho for tratado e fácil de operar.
+ac.ability.telekinesis.psycho_transmission.desc=Pegue o item que está caindo dentro de sua bolsa.
+ac.ability.telekinesis.psycho_needling.desc=Agora você pode controlar com precisão a atitude de projéteis voadores! Jogue uma agulha através de sua psicocinese, causando dano que passa a armadura.
+ac.ability.telekinesis.insulation.desc=Habilidade passiva, reduza o dano de habilidade recebido criando uma área que bloqueia a passagem de elétrons. Especialmente eficaz contra electromaster e meltdowner.
+ac.ability.telekinesis.cruise_bomb.desc=Controle pequenas bolas de água para navegar e atacar criaturas e projéteis automaticamente. É necessário um balde de água.
+ac.ability.telekinesis.overload_thinking.desc=Forçar o cérebro a pensar em alta velocidade, consumir muita sobrecarga para recuperar o poder de computação.
+ac.ability.telekinesis.perfect_paper.desc=Habilidade passiva, Despeje sua mente no papel para torná-lo duro e flexível. Você pode usar alguns itens especiais depois de aprender.
+ac.ability.telekinesis.psycho_slam.desc=Você pode controlar outras criaturas agora! Acerte o inimigo diagonalmente para cima através de sua psicocinese e, em seguida, bata-o.
+ac.ability.telekinesis.psycho_harden.desc=Torne seu corpo extremamente duro por meio de sua psicocinese. Durante este período, você fica imune a qualquer dano, mas não pode se mover.
+ac.ability.telekinesis.liquid_shadow.desc=Construa uma criação humanóide com água, que o seguirá até que a morte ou habilidade termine. É necessário um balde de água.
+ac.ability.telekinesis.paper_drill.desc=Use o Papel Perfeito para criar uma broca enorme que seguirá sua visão e causará danos continuamente. É necessário um conjunto de papel.
+
+
+item.imagitem.enabled=HABILITADO
+item.imagitem.disabled=DESABILITADO
+
+item.opticalChip.name=Chip Óptico
+item.lasorComponent.name=Componente de Laser
+item.etchedCobblestone.name=Pedregulho Gravado
+item.rayTwister.name=Ray Twister
+item.energyUnitGroup.name=Grupo de Unidades de Energia
+item.electricalibur.name=Electricalibur
+item.electricalibur.desc=Espada lendária "Excalibur" imitada pela tecnologia moderna. Clique direito para criar um canhão elétrico (uma moeda necessária).
+item.avalon.name=Avalon
+item.avalon.desc=A bainha da lendária espada "Excalibur" imitada pela tecnologia moderna, cura você automaticamente.
+item.CPPotion.name=Poção de CP
+item.CPPotion.desc=Use para recuperar 2000cp, mas até metade do valor máximo de CP.
+item.lasorGun.name=Arma Laser
+item.airJet.name=Jacto de Ar
+item.airJet.desc=Clique direito para ejetar uma curta distância na direção visual. 10s de cooldown.
+item.airJet.desc2=Tempo de cooldown:
+item.teleporter.name=Teletransportador
+item.teleporter.desc=Clique direito para enviar-se de volta ao local vinculado (é necessária uma pérola de ender).
+item.teleporter.desc2=Local vinculado:
+item.teleporter.desc3=Nenhum local vinculado.
+item.paperPlane.name=Avião de Papel
+item.dropItemMagnet.name=Imã de Item
+
+item.helmetReso.name=Capacete Reso
+item.chestplateReso.name=Peitoral Reso
+item.leggingsReso.name=Calça Reso
+item.bootsReso.name=Botas Reso
+
+item.helmetImag.name=Capacete de Energia Imag
+item.chestplateImag.name=Peitoral de Energia Imag
+item.leggingsImag.name=Calça de Energia Imag
+item.bootsImag.name=Botas de Energia Imag
+
+item.helmetPaper.name=Capacete de Papel
+item.chestplatePaper.name=Peitoral de Papel
+item.leggingsPaper.name=Calça de Papel
+item.bootsPaper.name=Botas de Papel
+item.armorPaper.desc=Uma pilha de papel mal colocada em forma de armadura. Essa coisa pode ser realmente vestida?
